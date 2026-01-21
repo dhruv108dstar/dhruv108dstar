@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Dhruv Kumar 👋
 
-<!--
-**dhruv108dstar/dhruv108dstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/ML | Backend | Blockchain Developer  
+🏆 Hackathon Winner | VP – Code Rangers  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** Python, C, SQL, JavaScript
+- **AI/ML:** Pandas, NumPy, Scikit-learn, TensorFlow
+- **Backend:** Flask, FastAPI, REST APIs
+- **Blockchain:** Solidity, Web3, Smart Contracts
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+- 🥈 2nd Place – Edu Chain Semester 2 Global Hackathon ($15,000 EDU Prize)
+- Organizer – TechJam 1.0 & Code Nakshatra Hackathon
+
+## 📌 Current Focus
+- AI-powered backend systems
+- Blockchain-based education & identity solutions
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/dhruv-kumar-337012256/
